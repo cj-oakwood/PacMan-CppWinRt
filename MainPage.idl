@@ -1,0 +1,8 @@
+namespace WinRtMaze
+{
+    runtimeclass MainPage : Windows.UI.Xaml.Controls.Page
+    {
+        MainPage();
+        Int32 Dummy;
+    }
+}
